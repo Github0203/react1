@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "pe anh",
+        "tel": "0789548661",
+        "permisson": 1
+    },
+    {
+        "id": 2,
+        "name": "pe ngoc",
+        "tel": "0789548662",
+        "permisson": 2
+    },
+    {
+        "id": 3,
+        "name": "pe ham",
+        "tel": "0789548663",
+        "permisson": 3
+    },
+    {
+        "id": 4,
+        "name": "pe dien",
+        "tel": "0789548663",
+        "permisson": 2
+    },
+    {
+        "id": 5,
+        "name": "pe ly",
+        "tel": "0789548663",
+        "permisson": 1
+    }
+]
